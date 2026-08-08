@@ -1,25 +1,24 @@
-import React from 'react';
 import { motion } from 'framer-motion';
 import { ListOrdered, Target, Lightbulb } from 'lucide-react';
 export function LearningMethodSection() {
   const methods = [
   {
     icon: <ListOrdered className="w-6 h-6 text-navy-dark" />,
-    title: 'Materi berurutan',
+    title: '1. Ikuti urutan materinya',
     description:
-    'Tidak perlu bingung mulai dari mana. Kurikulum disusun sistematis dari dasar hingga tingkat lanjut.'
+    'Kurikulum sudah disusun dari dasar ke tingkat lanjut. Kamu tinggal jalan — tidak perlu lagi menebak-nebak hari ini sebaiknya belajar apa.'
   },
   {
     icon: <Target className="w-6 h-6 text-navy-dark" />,
-    title: 'Target nilai yang jelas',
+    title: '2. Kejar target tiap sesi',
     description:
-    'Setiap sesi latihan memiliki passing grade yang harus dicapai untuk memastikan kesiapanmu.'
+    'Setiap sesi latihan punya target nilai yang mengacu pada ambang batas SKD. Progresmu jadi terukur, bukan sekadar merasa sudah belajar.'
   },
   {
     icon: <Lightbulb className="w-6 h-6 text-navy-dark" />,
-    title: 'Pembahasan yang tajam',
+    title: '3. Bedah pembahasannya',
     description:
-    'Bukan sekadar kunci jawaban. Pahami logika di balik setiap soal dengan penjelasan komprehensif.'
+    'Salah saat latihan itu wajar — yang penting kamu paham kenapa salah. Di titik inilah nilai biasanya naik paling cepat.'
   }];
 
   return (
@@ -42,9 +41,30 @@ export function LearningMethodSection() {
             transition={{
               duration: 0.5
             }}>
-            
-            Belajar lebih terarah. Urutannya jelas.
+
+            Belajar CPNS Tanpa Bingung Mulai dari Mana
           </motion.h2>
+          <motion.p
+            className="text-lg text-text-muted leading-relaxed"
+            initial={{
+              opacity: 0,
+              y: 20
+            }}
+            whileInView={{
+              opacity: 1,
+              y: 0
+            }}
+            viewport={{
+              once: true
+            }}
+            transition={{
+              duration: 0.5,
+              delay: 0.1
+            }}>
+
+            Tiga langkah yang bisa kamu ulang tiap hari, bahkan di sela jam
+            kerja atau kuliah.
+          </motion.p>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 relative">
@@ -70,8 +90,8 @@ export function LearningMethodSection() {
               duration: 0.5,
               delay: index * 0.2
             }}>
-            
-              <div className="w-24 h-24 rounded-full bg-white border-4 border-cream-surface shadow-md flex items-center justify-center mb-6 relative z-10">
+
+              <div className="w-24 h-24 rounded-full bg-white border-4 border-cream-surface shadow-md flex items-center justify-center mb-6 relative z-10" aria-hidden="true">
                 {method.icon}
               </div>
               <h3 className="text-xl font-bold text-navy-dark mb-3">
