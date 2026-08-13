@@ -23,7 +23,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="01 · SYSTEM CONTEXT" id="YTKpBbWh3r9KJ70VoTCr">
-    <mxGraphModel dx="805" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2480" pageHeight="1572" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel grid="1" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="2480" pageHeight="1572" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -191,7 +191,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="02 · USE CASE — LEARNER" id="3bPgFIWwariqUbLHRUZW">
-    <mxGraphModel grid="1" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="2720" pageHeight="1812" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="2236" dy="1464" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2720" pageHeight="1812" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -202,6 +202,12 @@
         </UserObject>
         <mxCell id="img-02-658ed1ba09" parent="g-02-df613aadca" style="shape=image;verticalLabelPosition=middle;verticalAlign=middle;imageAspect=1;aspect=fixed;image=https://www.plantuml.com/plantuml/svg/XLRjZk8s5FsVfxYYqlwRQO6POQTQeJKXJD40eKdOQgLAbKayO97Oo7Q6eUrAVOW-OP-apeUpJg1R91HoVQvzxhddMdoK2WkLPwaZ3vGTiS0P70MHHBmI98yaLW5MbCFRaYQVzHSoGfI5bQ-xASq8avIpK9rJ0YyubSH2R75ys0cUiyJbAHVmtQpys7liSS9FbEqkSikqc0j61FJlh8M4lE0yLJFEr0fd14BCP4W4VRcE2UdlfBq14eAVQa9te_lxXyVkOhIdyO4HAQ5_Ex0M8wfIKcnQP_ymwuy6w1gWF7LWvwwu8fChUeoyQHV5HKA4GJoEXls73iAYC787qxvz3euL5wqjBbYMa6-LaKiIOtb9rvlD7bhjCq3xkC7zmz2RN8A-TQ3GPiDibrvHwFqCpTohKFlGnpiqdBo_1hEE7Gxl-lVtjjlrQNX7AlCs6OugkWZkUXN24aj5n1d--UjlM11Skd4ZzQ8kI3efUL6WE0Ywsoj8QB657WQd51YUSY9L_RlEhTzwQq4occUm9DcMY1vW2NN8CKitDt-EcpId8GUz_-JblHtr610ManxyuO2f3deeZhMY2jw1pxOSYqJFMmK1qnpe1MH7YpsXHfUaDkvlWVSq3oClQACNV4SPV0-1lYuKhB6K9zqEaxFmd-QhTeBBisDA56bHgD3-QkAZOAhnNspMPLdNc7wYv0Hc5GAEammV6xe-cYxHkbiRJhHakZgAKuDS8btL72tQq0ddXmoBWwvjMJmCRvCryVtd9GgUkspNGhUMnaIBZAJsXjGNexgWtg1-BhoXhIBDlki0kT7SzJggxKby0CJaIJVcNT7X5BFYKcOcR-Pvqmbodpi5vqpVHHb9819ddZVDZ8BF_YPgOr6kkCIlf3wcOOGsaH-YJnr6ORxDgDBg56atidmp6U5cifn7LveLwdkyKAOGKsl9ulEl336SdYMLNtqMRXPHjs-lHVelWkj6T-W5tjARpdKFkvsePahkwV6wSzPQGbcGARIrj75_yjpd2tKg_lbMne8U2-4XL5ZbqgevT8FvEfhxgvB95ySf1ryFyBWrFwreDI5cSkkW6OHEs5Yw4sxysuatJkh4c_ewyLO5Ns-ViUMNJhHkrKNKDCInsC7jxTYU6_WHFdmWRze4oNZiM7GDq1Yw158Mftb2AcH5nk2CFVyFLvdo4bN7QrHLqYMgZZUekiHs5H_re_WRzIy;" value="" vertex="1">
           <mxGeometry height="1680" width="2640" as="geometry" />
+        </mxCell>
+        <mxCell id="hprjqCPTWc4CnKS2xQ-_-1" parent="g-02-df613aadca" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" value="Delete account belum" vertex="1">
+          <mxGeometry height="200" width="200" x="1583" y="767" as="geometry" />
+        </mxCell>
+        <mxCell id="_62-S5fbNuzw1WYre2q6-1" parent="g-02-df613aadca" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" value="&lt;br&gt;&lt;div&gt;Isi data&lt;/div&gt;" vertex="1">
+          <mxGeometry height="200" width="200" x="984" y="219" as="geometry" />
         </mxCell>
         <mxCell id="note-02" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=12;fontColor=#64748B;" value="PlantUML SVG — source-level wrapping enabled; SansSerif portable font; aspect preserved; infinite canvas." vertex="1">
           <mxGeometry height="28" width="2640" x="40" y="1744" as="geometry" />
@@ -229,7 +235,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="04 · USE CASE — COMMERCE &amp; ADMINISTRATION" id="3rPiCB5YKMz9TAD03Cq1">
-    <mxGraphModel grid="1" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="2640" pageHeight="1732" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="2515" dy="1648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2640" pageHeight="1732" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -243,6 +249,9 @@
         </mxCell>
         <mxCell id="note-04" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=12;fontColor=#64748B;" value="PlantUML SVG — source-level wrapping enabled; SansSerif portable font; aspect preserved; infinite canvas." vertex="1">
           <mxGeometry height="28" width="2560" x="40" y="1664" as="geometry" />
+        </mxCell>
+        <mxCell id="FWD89LhrVujwjw3xNvGm-1" parent="1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" value="Cancel Payment n Billing Belum" vertex="1">
+          <mxGeometry height="200" width="200" x="1260" y="740" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -267,7 +276,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="06 · ACTIVITY — LEARN MATERIAL" id="FgMAXvL673I__tg65tWS">
-    <mxGraphModel dx="2077" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1840" pageHeight="2452" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1948" dy="1014" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1840" pageHeight="2452" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -279,11 +288,14 @@
         <mxCell id="img-06-3953181c9f" parent="g-06-6aef94c6b7" style="shape=image;verticalLabelPosition=middle;verticalAlign=middle;imageAspect=1;aspect=fixed;image=https://www.plantuml.com/plantuml/svg/XLNRRXen47tVhnYfBuaKDLckIOZQm09FpKKXLLGfBsPt09TTsxMz9AHKwaVq2_ib7IyBc8lII0dAxZbdpimScsjZcRPvbWPcoeLYccMWD1hKCsmRXR5zO9PBUBtXoJVwXGpHUbWp6tTvXi9mAGPsdYACM6hGGxneffvuOYSGdfy5LyQ1FWNjsF8Pj_CkPsE7-Xa0tB1NdkNP4bofdGM_WglJ4h_H6x9uEjOo5qaaKwdXGx_uyJrDM29Vk1ZlUIbeiTG2DOGrxqM28vQdjY-5lMKPme09Cq3DHuSn0_w6sm9jhULBQQZMhDSR5xil7oSydWeq1iAF5U_b8xSfEj6IVTOFcvNs8K1HjU9pRwN5pe5vD7lTNPJK2UeLug9P3Hix2Cz2CwfqGxyEAxUrLwlNxpUsPhz6-lKgzKQrrpc0Ugzjjab89aNo_pPt2Uzsl08FNFnBKDXeLsk7BFJMHRjHfL7nTUYlvNH0nBw_ytwx7ns4-iwYJhVU2m_1lE5KgxMmNW-iImAiZWxy_Vs7_ebTf9X8O63pP0vVa6dXid_3B0MOfS6YU8Hw4HHdFRYyKoZeAB0aOmf8FYkHL7gChM3nX4DeAxK8BX_mHux6Wig7AJSJJDROPp53xGuzuICoYi827PWPZv5uNqXy8-lCuMY4pZTwH3w2e_kryXRgyp7O2RaycgCvfglXCffWF8LqsGbGDJSAkdTiYzuweTxoKRBB9Eu3sbmBC4pGND-scb1idf9N9u9qLS2Ha4lIPWY5n60YNo2LyPJOD4MBXTrSqTsLK4lHOxjL08sLocc9XAuENt5b8XTindZAXhH8kcQL50OTjI0kQOkxuNUQ0krJQbe8d4BKlQMXkl4Yy8oUcHEmJe8-oSUpCBbIac93QsV6e3KxMnIKDp1kj5Ili4wryuoSAscAiBMyc131MzzoJnqffndJKvUNM6OgHRktfCMzbcFjuhXEWXiT8zV3adu2guAbyrAB7W1FC5FI9IcTkv4ikeoQP6OfS-zIGr7yIbzDwpg5n0qpv7JUcnLfA6VeTqyrA2a927orcrHAJTrhTyHZfDaGjTZ1DI7Tr-4_;" value="" vertex="1">
           <mxGeometry height="2320" width="1760" as="geometry" />
         </mxCell>
-        <mxCell id="2sFc1kuqT20lrYSrQCQQ-2" parent="g-06-6aef94c6b7" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=16;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" value="Ini Roadmap, apakah seperti Learning Path" vertex="1">
+        <mxCell id="2sFc1kuqT20lrYSrQCQQ-2" parent="g-06-6aef94c6b7" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=16;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" value="Ini Roadmap, apakah seperti Learning Path&lt;div&gt;Scope-nya?&lt;/div&gt;" vertex="1">
           <mxGeometry height="140" width="200" x="-70" y="820" as="geometry" />
         </mxCell>
         <mxCell id="2sFc1kuqT20lrYSrQCQQ-3" parent="g-06-6aef94c6b7" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=16;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" value="Ada Fitur Belajar kh?" vertex="1">
-          <mxGeometry height="140" width="200" x="690" y="510" as="geometry" />
+          <mxGeometry height="140" width="200" x="-70" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="dqt5m2ZzuJwq1mSsJR3A-1" parent="g-06-6aef94c6b7" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=16;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" value="Roadmap bisa dari course/modul&lt;div&gt;gabungan&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="200" x="80" y="920" as="geometry" />
         </mxCell>
         <mxCell id="note-06" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=12;fontColor=#64748B;" value="PlantUML SVG — source-level wrapping enabled; SansSerif portable font; aspect preserved; infinite canvas." vertex="1">
           <mxGeometry height="28" width="1760" x="40" y="2384" as="geometry" />
@@ -349,7 +361,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="10 · ACTIVITY — SUBSCRIPTION PAYMENT" id="bWfmnJq-oSZlW36UCVpu">
-    <mxGraphModel grid="1" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1920" pageHeight="2692" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1837" dy="941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1920" pageHeight="2692" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -363,6 +375,12 @@
         </mxCell>
         <mxCell id="note-10" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=12;fontColor=#64748B;" value="PlantUML SVG — source-level wrapping enabled; SansSerif portable font; aspect preserved; infinite canvas." vertex="1">
           <mxGeometry height="28" width="1840" x="40" y="2624" as="geometry" />
+        </mxCell>
+        <mxCell id="SWO3GE61NMRnIa-v9xN7-1" parent="1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" value="Jual satuan?&lt;div&gt;bisa dipromoin&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Periodicly (1 tahun)&lt;/div&gt;&lt;div&gt;99k&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;dengan embel-embel&lt;/div&gt;&lt;div&gt;update berkala&lt;/div&gt;" vertex="1">
+          <mxGeometry height="300" width="200" x="-220" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="6sENYE4XntStEDKylJnl-1" parent="1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" value="&amp;lt;Data&amp;gt;&lt;br&gt;Fitur chat AI untuk yg belum mengerti dengan solusi jawaban" vertex="1">
+          <mxGeometry height="300" width="200" x="-220" y="1110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -472,7 +490,7 @@
         <mxCell id="1" parent="0" />
         <UserObject label="" plantUmlData="{&#xa;  &quot;data&quot;: &quot;@startuml\nskinparam preserveAspectRatio xMidYMid meet\nskinparam svgDimensionStyle false\nskinparam backgroundColor #FFFFFF\nskinparam shadowing false\nskinparam roundcorner 14\nskinparam defaultFontName SansSerif\nskinparam defaultFontSize 14\nskinparam ArrowColor #475569\nskinparam ArrowThickness 1.2\nskinparam TitleFontColor #0F172A\nskinparam TitleFontSize 22\nskinparam NoteBackgroundColor #FFF7ED\nskinparam NoteBorderColor #F97316\nskinparam NoteFontColor #7C2D12\nhide circle\nhide methods\nskinparam classAttributeIconSize 0\nskinparam classBackgroundColor #F8FAFC\nskinparam classBorderColor #2563EB\nskinparam classFontColor #0F172A\nskinparam classHeaderBackgroundColor #DBEAFE\nskinparam classHeaderFontColor #0F172A\nskinparam linetype ortho\ntitle ERD — Identity, Profile, and Role-based Access\nentity USER {\n  * id : UUID &lt;&lt;PK&gt;&gt;\n  --\n  * email : varchar &lt;&lt;UQ&gt;&gt;\n  * password_hash : varchar\n  * email_verified_at : timestamp?\n  * status : enum\n  * created_at : timestamp\n}\nentity PROFILE {\n  * user_id : UUID &lt;&lt;PK,FK&gt;&gt;\n  --\n  display_name : varchar\n  target_exam : varchar?\n  study_preference : jsonb?\n  onboarding_completed_at : timestamp?\n}\nentity ROLE {\n  * id : UUID &lt;&lt;PK&gt;&gt;\n  --\n  * code : varchar &lt;&lt;UQ&gt;&gt;\n  name : varchar\n}\nentity PERMISSION {\n  * id : UUID &lt;&lt;PK&gt;&gt;\n  --\n  * code : varchar &lt;&lt;UQ&gt;&gt;\n  module : varchar\n  action : varchar\n}\nentity USER_ROLE {\n  * user_id : UUID &lt;&lt;PK,FK&gt;&gt;\n  * role_id : UUID &lt;&lt;PK,FK&gt;&gt;\n  --\n  scope : jsonb?\n  granted_at : timestamp\n}\nentity ROLE_PERMISSION {\n  * role_id : UUID &lt;&lt;PK,FK&gt;&gt;\n  * permission_id : UUID &lt;&lt;PK,FK&gt;&gt;\n}\nentity SESSION {\n  * id : UUID &lt;&lt;PK&gt;&gt;\n  --\n  * user_id : UUID &lt;&lt;FK&gt;&gt;\n  token_hash : varchar\n  expires_at : timestamp\n  revoked_at : timestamp?\n}\nentity AUDIT_LOG {\n  * id : UUID &lt;&lt;PK&gt;&gt;\n  --\n  actor_user_id : UUID? &lt;&lt;FK&gt;&gt;\n  action : varchar\n  resource_type : varchar\n  resource_id : UUID?\n  payload : jsonb\n  created_at : timestamp\n}\nUSER ||--|| PROFILE\nUSER ||--o{ USER_ROLE\nROLE ||--o{ USER_ROLE\nROLE ||--o{ ROLE_PERMISSION\nPERMISSION ||--o{ ROLE_PERMISSION\nUSER ||--o{ SESSION\nUSER |o--o{ AUDIT_LOG : actor\n@enduml\n&quot;,&#xa;  &quot;config&quot;: null&#xa;}" svgSizingMode="content-driven-auto-fit" svgAspectPolicy="root-preserveAspectRatio-xMidYMid-meet" svgContentWidth="1500" svgContentHeight="1050" svgDisplayMode="infinite-canvas" svgUniformScale="1.6" recommendedZoomMode="100%-or-fit-width" sourceWidthPolicy="portable-font-only" fontPolicy="SansSerif-portable" renderPolicy="plantuml-svg-root-aspect-safe" svgDimensionPolicy="viewBox-only-no-fixed-width-height" id="g-16-160e89fb7c">
           <mxCell connectable="0" parent="1" style="group;transparentBounds=1;editIcon=1;lockedGroup=0;groupPadding=10;" vertex="1">
-            <mxGeometry x="40" y="40" as="geometry" />
+            <mxGeometry height="122" width="655.5" x="40" y="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="ERD — Identity, Profile, and Role-based Access" plantUmlId="cltitle_2" plantUmlBaseStyle="text;html=1;fillColor=none;strokeColor=none;fontSize=14;fontStyle=1;fontColor=#000000;align=center;verticalAlign=middle;" plantUmlBaseValue="ERD — Identity, Profile, and Role-based Access" id="zGawJ2F4aEGlO4gp76KI-61">
@@ -775,6 +793,9 @@
             <mxGeometry relative="1" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="sm9Em9aJe2GsryEK869f-1" parent="g-16-160e89fb7c" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" value="Data ingin jadi divisi apa&lt;div&gt;Data Pendidikan&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;sekalian user profiling&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="200" width="200" x="90" y="-10" as="geometry" />
+        </mxCell>
         <mxCell id="note-16" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=12;fontColor=#64748B;" value="PlantUML SVG — source-level wrapping enabled; SansSerif portable font; aspect preserved; infinite canvas." vertex="1">
           <mxGeometry height="28" width="2400" x="40" y="1744" as="geometry" />
         </mxCell>
@@ -820,17 +841,20 @@
     </mxGraphModel>
   </diagram>
   <diagram name="19 · ERD — SUBSCRIPTION &amp; PAYMENT" id="q4DrBpTXr7B6a2GsuE7I">
-    <mxGraphModel grid="1" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="2560" pageHeight="1892" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1341" dy="879" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2560" pageHeight="1892" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <UserObject label="" plantUmlData="{&quot;data&quot;:&quot;@startuml\nskinparam preserveAspectRatio xMidYMid meet\nskinparam svgDimensionStyle false\nskinparam backgroundColor #FFFFFF\nskinparam shadowing false\nskinparam roundcorner 14\nskinparam defaultFontName SansSerif\nskinparam defaultFontSize 14\nskinparam ArrowColor #475569\nskinparam ArrowThickness 1.2\nskinparam TitleFontColor #0F172A\nskinparam TitleFontSize 22\nskinparam NoteBackgroundColor #FFF7ED\nskinparam NoteBorderColor #F97316\nskinparam NoteFontColor #7C2D12\nhide circle\nhide methods\nskinparam classAttributeIconSize 0\nskinparam classBackgroundColor #F8FAFC\nskinparam classBorderColor #2563EB\nskinparam classFontColor #0F172A\nskinparam classHeaderBackgroundColor #DBEAFE\nskinparam classHeaderFontColor #0F172A\nskinparam linetype ortho\ntitle ERD — Subscription, Entitlement, and Payment\nentity PLAN {\n  * id : UUID &lt;&lt;PK&gt;&gt;\n  --\n  * code : varchar &lt;&lt;UQ&gt;&gt;\n  name : varchar\n  duration_days : int\n  price_amount : numeric\n  currency : char(3)\n  status : enum\n}\nentity PLAN_ENTITLEMENT {\n  * plan_id : UUID &lt;&lt;PK,FK&gt;&gt;\n  * entitlement_key : varchar &lt;&lt;PK&gt;&gt;\n  --\n  configuration : jsonb?\n}\nentity SUBSCRIPTION {\n  * id : UUID &lt;&lt;PK&gt;&gt;\n  --\n  * user_id : UUID &lt;&lt;FK&gt;&gt;\n  * plan_id : UUID &lt;&lt;FK&gt;&gt;\n  starts_at : timestamp\n  ends_at : timestamp\n  status : enum\n  source_transaction_id : UUID? &lt;&lt;FK&gt;&gt;\n}\nentity PAYMENT_TRANSACTION {\n  * id : UUID &lt;&lt;PK&gt;&gt;\n  --\n  * user_id : UUID &lt;&lt;FK&gt;&gt;\n  * plan_id : UUID &lt;&lt;FK&gt;&gt;\n  reference : varchar &lt;&lt;UQ&gt;&gt;\n  gateway_reference : varchar?\n  amount : numeric\n  currency : char(3)\n  status : enum\n  paid_at : timestamp?\n}\nentity PAYMENT_EVENT {\n  * id : UUID &lt;&lt;PK&gt;&gt;\n  --\n  * transaction_id : UUID &lt;&lt;FK&gt;&gt;\n  gateway_event_id : varchar &lt;&lt;UQ&gt;&gt;\n  event_type : varchar\n  verified : boolean\n  payload : jsonb\n  received_at : timestamp\n}\nentity COUPON {\n  * id : UUID &lt;&lt;PK&gt;&gt;\n  --\n  code : varchar &lt;&lt;UQ&gt;&gt;\n  discount_type : enum\n  discount_value : numeric\n  valid_from : timestamp\n  valid_until : timestamp?\n  usage_limit : int?\n}\nentity COUPON_REDEMPTION {\n  * coupon_id : UUID &lt;&lt;PK,FK&gt;&gt;\n  * transaction_id : UUID &lt;&lt;PK,FK&gt;&gt;\n  --\n  user_id : UUID &lt;&lt;FK&gt;&gt;\n  redeemed_at : timestamp\n}\nPLAN ||--o{ PLAN_ENTITLEMENT\nPLAN ||--o{ SUBSCRIPTION\nPLAN ||--o{ PAYMENT_TRANSACTION\nUSER ||--o{ SUBSCRIPTION\nUSER ||--o{ PAYMENT_TRANSACTION\nPAYMENT_TRANSACTION ||--o{ PAYMENT_EVENT\nPAYMENT_TRANSACTION |o--o| SUBSCRIPTION : activates\nCOUPON ||--o{ COUPON_REDEMPTION\nPAYMENT_TRANSACTION ||--o| COUPON_REDEMPTION\n@enduml\n&quot;,&quot;config&quot;:null}" svgSizingMode="content-driven-auto-fit" svgAspectPolicy="root-preserveAspectRatio-xMidYMid-meet" svgContentWidth="1550" svgContentHeight="1100" svgDisplayMode="infinite-canvas" svgUniformScale="1.6" recommendedZoomMode="100%-or-fit-width" sourceWidthPolicy="portable-font-only" fontPolicy="SansSerif-portable" renderPolicy="plantuml-svg-root-aspect-safe" svgDimensionPolicy="viewBox-only-no-fixed-width-height" id="g-19-79f4e935ae">
           <mxCell connectable="0" parent="1" style="group;transparentBounds=1;editIcon=1;lockedGroup=0;groupPadding=10;" vertex="1">
-            <mxGeometry height="1760" width="2480" x="40" y="40" as="geometry" />
+            <mxGeometry height="1760" width="2490" x="40" y="40" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="img-19-8475f1dbc3" parent="g-19-79f4e935ae" style="shape=image;verticalLabelPosition=middle;verticalAlign=middle;imageAspect=1;aspect=fixed;image=https://www.plantuml.com/plantuml/svg/jLPjRzem4FxEhx2qBrlLJeMkPQsgqXI2XjPIHc1IFqN6ES1hOYFReSlQIViH-uNx9Ji7A7cZbIOD2K7kdlFTFNxkb4jjg39n5DRqFHSBgcX45Weqg2KuUW7C3AdXado_uS4TVaa4O39OlPnrU0H2SoayauH0fZJKa45CABkVAHcBe2r3gSYRRlh9dZ6dWNpWObQAJSEOL08KgN_8E0AOqZWqNIbCdqP0F2gq1ufFgp4U_m7v0nobvCEwe0_Du-EJqw9pDEViNe3MfFw-aN6Ek0d17hgEFkpMcmsd2f1cRMHZ-zB0LGKVJRTJH4aLWDeWJfj7zPC28bD2izter1krEG-0CAvO2Al_4PYv37Gca8LKQySOnIUnWHx3IxD57XOXvI8_TfrkkmJBLjauFZbohugGbvXA0P-0uXcbX9qhr-cwrU2NpWov09CiW4Y5pTUClGpY3Zlapw_Vn8idcYc-G4MBVUAAr8lgDVk4Ye0CQ68VQc0T2HbSEttoM2DaZw3mpyXutEkGy_F1vuiBD1uSf1ucaUWpigIApQb2z_XBwXPMbizsD0InifCa_80c6ZqS4n6SDSx0fn5sRj0euWXLpD31OgL0i0IDze2tH-_GYCDgOXiC2Apzp1Rgk_rHRtJjtk3lkkX5I8MVhto_kof-Zy2sUVyUabmBsGvH8bC-MzUEg6zQYabhcziRNtdjOMymwjs-JbQCUoLNqNCvfLhNddGzQPzQSWmk6doE5cW74LHOy_pWiumLqciKhWVAKlQVSxGsIROqEdUMFNyqTFgUq_vF7IcOWhtPIjNCg847clWLe1Qw_qqdg3BAWm9RhNBVxjUjTdPtN4dcjhrD1x2qoae1fIvNldHAinEoj0kSWmsPI1a25MdfIIXfi55UIY03leHYGzj-shVZmQjNjsjk0wwP9NbJtfh1P_EIXZ7aRW0joEvKoQYWnfK3WtYOPvwWREWC_917tAnMGQjOlZzqE-vDTgmm_qBk7kXTzxB5f7tl4go2070RLB2Qhi6dfuC3-LZQD3bdTXNaeyg3LHjxxh0oCEke2goQqW8y5N8rK2BmAR-qpeXbROcwrRMrTDRdbMvYT_Ad2l0bBYdxPlKN;" value="" vertex="1">
           <mxGeometry height="1760" width="2480" as="geometry" />
+        </mxCell>
+        <mxCell id="MO_JjW33AXBU-NMFimSH-1" parent="g-19-79f4e935ae" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" value="Coupon Gk Perlu" vertex="1">
+          <mxGeometry height="200" width="200" x="2280" y="600" as="geometry" />
         </mxCell>
         <mxCell id="note-19" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=12;fontColor=#64748B;" value="PlantUML SVG — source-level wrapping enabled; SansSerif portable font; aspect preserved; infinite canvas." vertex="1">
           <mxGeometry height="28" width="2480" x="40" y="1824" as="geometry" />
@@ -839,7 +863,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="20 · COMPONENT ARCHITECTURE" id="uGQVNF4OQ53zcsCIkX6x">
-    <mxGraphModel dx="1677" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2640" pageHeight="1812" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1258" dy="1224" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2640" pageHeight="1812" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1431,8 +1455,26 @@
         <mxCell id="note-20" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=12;fontColor=#64748B;" value="PlantUML SVG — source-level wrapping enabled; SansSerif portable font; aspect preserved; infinite canvas." vertex="1">
           <mxGeometry height="28" width="2560" x="40" y="1744" as="geometry" />
         </mxCell>
-        <mxCell id="wa1uHBLanFrGw4M4MuNa-2" parent="1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" value="Queue Service?&lt;br&gt;I Dont think we really need this...&lt;div&gt;Yet&lt;/div&gt;" vertex="1">
-          <mxGeometry height="150" width="200" x="1260" y="100" as="geometry" />
+        <mxCell id="g51GPAQlmZFzwoENuaua-1" parent="1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" value="resend" vertex="1">
+          <mxGeometry height="95" width="127" x="1270" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="g51GPAQlmZFzwoENuaua-2" parent="1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" value="Xendit" vertex="1">
+          <mxGeometry height="70" width="90" x="1320" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="7pTBld07cpzcA8utvbAf-1" parent="1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" value="Kafka" vertex="1">
+          <mxGeometry height="70" width="90" x="1314" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="7pTBld07cpzcA8utvbAf-2" parent="1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" value="Neon" vertex="1">
+          <mxGeometry height="70" width="90" x="1270" as="geometry" />
+        </mxCell>
+        <mxCell id="7pTBld07cpzcA8utvbAf-3" parent="1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" value="Firabse Object Storage" vertex="1">
+          <mxGeometry height="70" width="90" x="1320" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="7pTBld07cpzcA8utvbAf-4" parent="1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" value="FIrebase app hosting" vertex="1">
+          <mxGeometry height="70" width="90" x="510" y="-50" as="geometry" />
+        </mxCell>
+        <mxCell id="7pTBld07cpzcA8utvbAf-5" parent="1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" value="Auto scaling Horizontal" vertex="1">
+          <mxGeometry height="95" width="90" x="620" y="-75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
