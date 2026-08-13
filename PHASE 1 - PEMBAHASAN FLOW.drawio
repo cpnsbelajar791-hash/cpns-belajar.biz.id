@@ -23,7 +23,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="01 · SYSTEM CONTEXT" id="YTKpBbWh3r9KJ70VoTCr">
-    <mxGraphModel dx="1437" dy="941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2480" pageHeight="1572" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="805" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2480" pageHeight="1572" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -70,7 +70,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Uwd7_xWs4wb1w9q7Amyk-56" parent="Uwd7_xWs4wb1w9q7Amyk-51" style="html=1;dropTarget=0;whiteSpace=wrap;" value="«Activities»&lt;br&gt;&lt;b&gt;Content Management&lt;/b&gt;" vertex="1">
+        <mxCell id="Uwd7_xWs4wb1w9q7Amyk-56" parent="Uwd7_xWs4wb1w9q7Amyk-51" style="html=1;dropTarget=0;whiteSpace=wrap;" value="«Activities»&lt;br&gt;&lt;b&gt;Content (pembelajaran) Management&lt;/b&gt;" vertex="1">
           <mxGeometry height="80" width="120" x="60" y="420" as="geometry" />
         </mxCell>
         <mxCell id="Uwd7_xWs4wb1w9q7Amyk-57" parent="Uwd7_xWs4wb1w9q7Amyk-56" style="shape=module;jettyWidth=8;jettyHeight=4;" value="" vertex="1">
