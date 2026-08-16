@@ -4,6 +4,7 @@ import { Stats } from './components/Stats';
 import { CategorySection } from './components/CategorySection';
 import { SimulationSection } from './components/SimulationSection';
 import { LearningMethodSection } from './components/LearningMethodSection';
+import { PricingSection } from './components/PricingSection';
 import { FinalCTA } from './components/FinalCTA';
 import { FAQSection } from './components/FAQSection';
 import { Footer } from './components/Footer';
@@ -23,6 +24,7 @@ export function App() {
         <CategorySection />
         <SimulationSection />
         <LearningMethodSection />
+        <PricingSection />
         <FinalCTA />
         <FAQSection />
       </main>
